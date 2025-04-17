@@ -11,3 +11,9 @@ A ideia do desafio é poder sortear números aleatórios de forma dinâmica, por
 Conseguimos também limpar os valores sorteados da tela para sortear números novos.
 
 ![ Preview do projeto estudando lógica de programação](/img/preview-sorteador.png)
+
+### Demonstração do projeto
+
+Aqui podemos ver quais foram os números sorteados a partir dos parâmetros estabelecidos.
+
+![Preview do projeto estudando lógica de programação](img/preview-sorteador-2.png)
