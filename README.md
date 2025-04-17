@@ -16,4 +16,4 @@ Conseguimos também limpar os valores sorteados da tela para sortear números no
 
 Aqui podemos ver quais foram os números sorteados a partir dos parâmetros estabelecidos.
 
-![Preview do projeto estudando lógica de programação](img/preview-sorteador-2.png)
+![Preview do projeto estudando lógica de programação](assets/project-preview-2.png)
